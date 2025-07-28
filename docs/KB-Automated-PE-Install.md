@@ -1,15 +1,15 @@
-# KB: Automating Windows 11 PE-Phase Installation
+# KB: Automating Windows 11 Clean Installation
 
 ## Executive Summary
 
-This KB outlines the process of creating a fully automated Windows 11 installation experience through the Windows PE phase. It is intended for IT professionals who require a hands-free, efficient reimaging process.
+This KB outlines the process of creating a fully automated Windows 11 installation experience (this process only handles the steps before the out of box experience). It is intended for IT professionals who require a hands-free, efficient reimaging process.
 
 ## Objectives
 
 - Eliminate manual input during Windows PE setup
 - Auto-wipe and partition the disk
 - Inject Wi-Fi drivers for early connectivity
-- Skip OOBE to allow post-setup customization
+- Process ends at OOBE
 
 ## Tools & Resources
 
