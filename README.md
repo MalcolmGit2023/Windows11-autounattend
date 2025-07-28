@@ -1,4 +1,4 @@
-# Windows 11 Automated PE-Phase Installer
+# Windows 11 Automated Clean Installer
 
 This project provides a streamlined solution for automating the **Windows PE phase** of a Windows 11 clean installation using `autounattend.xml`. It is designed for IT professionals who need to reimage machines efficiently while multitasking.
 
@@ -10,7 +10,7 @@ This project provides a streamlined solution for automating the **Windows PE pha
   - Windows System Image Manager (WSIM)
   - [NTLite](https://www.ntlite.com/) for driver injection
 - **Key Features**:
-  - Skips OOBE (Out-of-Box Experience)
+  - Automates all steps and ends at OOBE setup
   - Auto-selects language and region
   - Auto-wipes disk and partitions
   - Injects Wi-Fi drivers for seamless connectivity
